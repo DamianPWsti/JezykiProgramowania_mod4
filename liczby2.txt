@@ -1,0 +1,4 @@
+WSTI --GRUPA-- 2DZI Damian Potoczny
+Modul 3 Operacje na plikach Zadanie 6
+Języki programowania
+12, 456, 234, 74, 642, 
